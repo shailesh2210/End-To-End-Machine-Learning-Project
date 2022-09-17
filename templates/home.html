@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Housing price</h1>
+<div class=" Home">
+    <form action="{{ url_for ('predict') }}" method="POST">
+        <input type="text" name="CRIM", placeholder="CRIM", required>
+        <input type="text" name="ZN", placeholder="ZN", required>
+        <input type="text" name="INDUS", placeholder="INDUS", required>
+        <input type="text" name="CHAS", placeholder="CHAS", required>
+        <input type="text" name="NOX", placeholder="NOX", required>
+        <input type="text" name="RM", placeholder="RM", required>
+        <input type="text" name="Age", placeholder="Age", required>
+        <input type="text" name="DIS", placeholder="DIS", required>
+        <input type="text" name="RAD", placeholder="RAD", required>
+        <input type="text" name="TAX", placeholder="TAX", required>
+        <input type="text" name="PTRATIO", placeholder="PTRATIO", required>
+        <input type="text" name="B" placeholder="B", required>
+        <input type="text" name="LSTAT", placeholder="LSTAT", required>
+
+        <button type="submit" class="btn-btn primary">Predict</button>
+    </form>
+</div>
+
+    {{prediction_text}}
+</body>
+</html>
