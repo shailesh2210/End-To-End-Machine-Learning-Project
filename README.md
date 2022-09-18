@@ -40,7 +40,7 @@ Deploying The App Using Dockers
 
 
 ## 🔗 Author
-[DEMO APP](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/shailesh2210)
+DEMO APP(https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/shailesh2210)
 
 
 
