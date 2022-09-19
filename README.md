@@ -36,11 +36,11 @@ Deploying The App Using Dockers
 ```
 
 ## 🔗 Demo APP
-[![DEMO APP]](https://bostonhousehrice.herokuapp.com/)
+[click here](https://bostonhousehrice.herokuapp.com/)
 
 
 ## 🔗 Author
-(https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/shailesh2210)
+[ Shailesh Gaddam ](https://www.linkedin.com/in/shailesh-gaddam-262988218)
 
 
 
