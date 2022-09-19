@@ -35,12 +35,12 @@ Deploying The App Using Dockers
 
 ```
 
-## 🔗 Demo
+## 🔗 Demo APP
 [![DEMO APP]](https://bostonhousehrice.herokuapp.com/)
 
 
 ## 🔗 Author
-DEMO APP(https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/shailesh2210)
+(https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/shailesh2210)
 
 
 
